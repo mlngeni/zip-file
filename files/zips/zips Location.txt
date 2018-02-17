@@ -1,1 +1,1 @@
-This is the folder that will store the zipped files that was created
+The names will be a random number between 10 and 100
